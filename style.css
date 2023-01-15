@@ -1,0 +1,8 @@
+#html_check_clip_key table td, #html_check_clip_key table th{
+    border: 1px solid #ccc;
+    padding: 0.25em 0.5em;
+}
+
+#html_check_clip_key h1{
+    font-size: large;
+}
